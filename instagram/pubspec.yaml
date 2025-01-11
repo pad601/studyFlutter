@@ -56,6 +56,8 @@ flutter:
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
+  assets:      # 새로 추가한 부분
+    - assets/  # assets 폴더의 모든 이미지를 불러옴
 
   # To add assets to your application, add an assets section, like this:
   # assets:
